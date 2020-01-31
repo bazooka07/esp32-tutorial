@@ -1,0 +1,5 @@
+build/*/
+build/*.elf
+build/*.map
+build/ldgen.section_infos
+*.old
