@@ -11,7 +11,7 @@
 
 #include "wifi_functions.h"
 
-#define FIRMWARE_VERSION	0.1
+#define FIRMWARE_VERSION	0.2
 // #define UPDATE_JSON_URL	"https://esp32tutorial.netsons.org/https_ota/firmware.json"
 #define UPDATE_JSON_URL		"https://raw.githubusercontent.com/bazooka07/esp32-tutorial/test-ota/30_https_ota/firmware.json"
 #define BLINK_GPIO 			GPIO_NUM_21 // for TTGO T8_V1.7 20180721
